@@ -2,12 +2,13 @@
 
 ## Objective:
 
-Building Markowitz Portfolio and Determining Overpriced and Underpriced Stocks NSE top 100 companies’ five years’ daily stock closing price data was collected. 
+To determine Overpriced and Underpriced Stocks in NSE top 100 companies and constructing a optimal Markowitz portfolio.
 
 ## Approach:
 
-- Time series characteristics were analyzed. Returns were estimated, and distribution was fitted by test statistics. 
+- Time series characteristics of both stock price and its returns were analyzed. 
+- Security Market Line was plotted for all NSE 100 stocks with risk free rate (&alpha;) and classified the overpriced and underpriced stocks.
 - Markowitz portfolio was built by taking top 15 companies with high sharpe ratio, and efficient frontier was plotted. 
-- Security Market Line was plotted for all 100 stocks and classified the overpriced and underpriced stocks.
+
 
 ## Result:
