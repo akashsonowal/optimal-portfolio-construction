@@ -7,7 +7,7 @@ To determine Overpriced and Underpriced Stocks in NSE top 100 companies and cons
 ## Approach:
 
 - Time series characteristics of both stock price and its returns were analyzed. 
-- Security Market Line was plotted for all NSE 100 stocks with risk free rate (&alpha; = 0.05) and classified the overpriced and underpriced stocks.
+- Classified stocks into underprice and overprice with the help of Security Market Line plotted for all NSE 100 stocks after calculating &beta; = Cov(r, r<sub>m</sum>)/Var(r<sub>m</sub>) and &alpha; = 0.05 (i.e., with risk free rate of 5%)
 - Markowitz portfolio was built by taking top 15 companies with high sharpe ratio, and efficient frontier was plotted. 
 
 
