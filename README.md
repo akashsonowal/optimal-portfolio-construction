@@ -2,7 +2,7 @@
 
 ## Objective:
 
-To determine Overpriced and Underpriced Stocks in NSE top 100 companies and constructing a optimal Markowitz portfolio.
+To determine overpriced and underpriced stocks in NSE top 100 companies and constructing a optimal Markowitz portfolio.
 
 ## Approach:
 
