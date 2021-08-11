@@ -13,4 +13,4 @@ To determine overpriced and underpriced stocks in NSE top 100 companies and cons
 
 ## Result:
 
--  With the final selected portfolio, a profit of +13.09 % was achieved over a period of 4 months.
+-  With the final selected portfolio, gains of +13.09 % was achieved over a period of 4 months.
